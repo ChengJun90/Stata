@@ -1,6 +1,6 @@
-# Stata
+# 说明
+这里主要存放自己的学习笔记和Stata资源列表等。
 
-- 本文档主要记录和分享Stata处理数据时的技巧。
-- 会不定期补充和更新。
-- 欢迎交流。
-- Stata 14.2。
+# awesome-Stata
+
+[awesome-Stata](https://github.com/chengjun90/Python-notes/blob/master/awesome-Stata.md)是[Cheng Jun](https://github.com/chengjun90)建立和维护Stata资源列表，内容包括：网络爬虫、数据处理、数据可视化、文本处理等。该资源列表会持续更新。
